@@ -1,0 +1,29 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float:right;
+    border: 1px solid white;
+}
+.modal-dialog{
+    width: 80%;
+}
+.KFC{
+    display: inline-block;
+    width: 45%;
+}
+.dominios{
+    background-color: rgb(5, 5, 56);
+    margin: 0px;
+    color: blanchedalmond;
+    line-height: 2;
+}
+.modal-body{
+    font-size: 25px;
+    
+}
